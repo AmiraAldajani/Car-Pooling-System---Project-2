@@ -1,5 +1,7 @@
 public class Subscribers extends Passenger{
 
+
+    // MINUS CAPACITY WHEN BOOKING
     //50% discount on a reserved car.
     protected final double discount = 0.5;
 
